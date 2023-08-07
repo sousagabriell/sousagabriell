@@ -12,9 +12,9 @@
 </div>
 
 - 🌱 Atualmente estou aprendendo
-- <div>
+<div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 </div>
 
 <div>

@@ -1,7 +1,6 @@
 # Olá, me chamo Gabriel de Sousa ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<!--
 
 - 🔭 Principais Stacks:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -30,4 +29,3 @@
 </div>
 
 
--->
